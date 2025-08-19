@@ -41,3 +41,13 @@ IMAGE_GENERATION_GUIDE.md
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+deploy.ps1
+DEPLOYMENT_SUMMARY.md
+google-oauth-setup.md
+deploy/README_DEPLOY_VPS.md
+.gitignore
+ENVIRONMENT_SETUP.md
+OAUTH_URGENT_FIX.md
+OAUTH_FIX.md
+DEPLOYMENT.md
+deploy.sh
